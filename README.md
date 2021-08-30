@@ -1,2 +1,2 @@
 # Bmi-Calculator-in-Reactjs
-calcualte bmi with Reactjs
+calculate bmi with Reactjs
