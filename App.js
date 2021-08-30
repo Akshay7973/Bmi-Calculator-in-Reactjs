@@ -1,3 +1,4 @@
+import './App.css';
 import Bmi from './Bmi.js'
 function App() {
   return (
